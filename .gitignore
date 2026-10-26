@@ -1,0 +1,13 @@
+# Python bytecode and cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Nested empty clone
+Flappy_Bird_Gymnasium-Reinforcement-Learning-Agent/
+
+# Training logs and model checkpoints
+runs/
