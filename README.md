@@ -137,7 +137,7 @@ This project is available under the MIT License. See [LICENSE](LICENSE) for deta
 
 ### Aastha Nayak
 
-Machine Learning · Python · Reinforcement Learning · NLP
+Machine Learning · Python · Reinforcement Learning · Deep-Q network
 
 💡 Open to collaboration on Machine Learning, Python, and AI projects.
 
@@ -149,6 +149,6 @@ Machine Learning · Python · Reinforcement Learning · NLP
 
 ⭐ If you found this project helpful, consider giving it a Star!
 
-Made with 💖 using **Python, Reinforcement Learning & PyTorch**
+Made with 💖 using **Python, Reinforcement Learning & Gymnasium**
 
 </div>
